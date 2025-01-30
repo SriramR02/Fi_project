@@ -20,7 +20,7 @@ list_of_files = [
     "src/pipeline/prediction_pipeline.py",
     "src/utils/utils.py",
     "src/logger/logging.py",
-    "src/exception/exception"
+    "src/exception/exception.py",
     "tests/unit/__init__.py",
     "tests/integrtion/__init__.py",
     "init_setup.sh",
