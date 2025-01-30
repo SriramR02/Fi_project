@@ -44,4 +44,3 @@ for filepath in list_of_files:
     if (not os.path.exists(filepath)) or(os.path.getsize(filepath) ==0):
         with open(filepath, "w") as f:
             pass #creating an empty file
->>>>>>> c1e6f57b9c6f9c8fbd2de92a413f9812bd3cd69d
